@@ -7,7 +7,7 @@ class App < Sinatra::Base
 	end
 
 	get '/info' do
-		"testing something something"
+		"testing something"
 	end
 
 end
